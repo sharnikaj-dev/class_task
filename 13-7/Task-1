@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brew Bliss Coffee Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 class="title">☕ Brew Bliss Coffee Store</h1>
+    <p class="subtitle">Fresh Coffee • Rich Aroma • Pure Happiness</p>
+
+    <div class="container">
+
+        <div class="card">
+            <span class="discount">10% OFF</span>
+            <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500" alt="Cold Brew">
+            <h2>Cold Brew Coffee</h2>
+            <p class="price">₹249</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="card">
+            <span class="discount">20% OFF</span>
+            <img src="https://images.unsplash.com/photo-1511920170033-f8396924c348?w=500" alt="Cappuccino">
+            <h2>Classic Cappuccino</h2>
+            <p class="price">₹199</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="card">
+            <span class="discount">15% OFF</span>
+            <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500" alt="Latte">
+            <h2>Vanilla Latte</h2>
+            <p class="price">₹229</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="card">
+            <span class="discount">25% OFF</span>
+            <img src="https://images.unsplash.com/photo-1459755486867-b55449bb39ff?w=500" alt="Coffee Beans">
+            <h2>Premium Coffee Beans</h2>
+            <p class="price">₹599</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="card">
+            <span class="discount">30% OFF</span>
+            <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500" alt="French Press">
+            <h2>French Press</h2>
+            <p class="price">₹1,199</p>
+            <button>Buy Now</button>
+        </div>
+
+        <div class="card">
+            <span class="discount">18% OFF</span>
+            <img src="https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=500" alt="Coffee Mug">
+            <h2>Ceramic Coffee Mug</h2>
+            <p class="price">₹349</p>
+            <button>Buy Now</button>
+        </div>
+
+    </div>
+
+</body>
+</html>
